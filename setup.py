@@ -10,7 +10,7 @@ from distutils.core import setup
 
 import unittest
 
-version = "1.0.0"
+version = "1.1.0"
 
 with open('README.md') as f:
     long_description = f.read()
@@ -20,7 +20,7 @@ setup(name='ofxstatement-ly-bsic',
       author="Vincent Luba",
       author_email="vincent@biz-4-africa.com",
       url="https://github.com/EtsBiz4Africa/ofxstatement-ly-bsic",
-      download_url="https://github.com/EtsBiz4Africa/ofxstatement-ly-bsic/archive/v1.0.0.zip",
+      download_url="https://github.com/EtsBiz4Africa/ofxstatement-ly-bsic/archive/v1.1.0.zip",
       description=("OFXStatement plugin for BSIC ()"),
       long_description=open("README.md").read(),
       long_description_content_type='text/markdown',
